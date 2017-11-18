@@ -1,3 +1,3 @@
-print("hello world");
-print("hello" + str(111));
+print("hello world")
+print("hello" + str(111))
 
