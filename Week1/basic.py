@@ -20,3 +20,5 @@ numA = int(input())
 numB = int(input())
 foo(numA, numB)
 '''
+
+'''gsg'''
